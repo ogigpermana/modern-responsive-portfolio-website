@@ -2,4 +2,4 @@
 
 Link Demonya dibawah ini :
 
-[I'm an inline-style link](https://ogigpermana.github.io/modern-responsive-portfolio-website/index.html)
+[Responsive Portfolio Static Website](https://ogigpermana.github.io/modern-responsive-portfolio-website/index.html)
