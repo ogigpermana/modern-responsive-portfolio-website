@@ -2,4 +2,4 @@
 
 Link Demonya dibawah ini :
 
-[Responsive Resume Static Website](https://ogigpermana.github.io/modern-responsive-portfolio-website/index.html)
+[Responsive Resume Static Website](https://ogigpermana.github.io/modern-responsive-portfolio-website/)
